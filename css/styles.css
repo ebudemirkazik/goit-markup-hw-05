@@ -651,7 +651,7 @@ footer .form .sub-form .form-button .icon {
   border-color: #4d5ae5;
 }
 
-.modal-window  .modal-container .input-div .input-name:focus .icon {
+.modal-window  .modal-container .input-div .input-name:focus + .icon {
   fill: #4D5AE5;
 }
 
