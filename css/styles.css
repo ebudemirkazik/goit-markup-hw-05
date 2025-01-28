@@ -647,6 +647,13 @@ footer .form .sub-form .form-button .icon {
 .modal-window  .modal-container .input-div .input-name:hover {
   border-color: #4d5ae5;
 }
+.modal-window  .modal-container .input-div .input-name:focus {
+  border-color: #4d5ae5;
+}
+
+.modal-window  .modal-container .input-div .input-name:focus .icon {
+  fill: #4D5AE5;
+}
 
 .modal-window  .modal-container .input-div .icon {
   position: absolute;
@@ -659,7 +666,7 @@ footer .form .sub-form .form-button .icon {
   border-color: #4d5ae5;
 }
 
-.modal-window -container div:nth-child(4) {
+.modal-window .modal-container .input-child {
   margin-bottom: 16px;
 }
 
