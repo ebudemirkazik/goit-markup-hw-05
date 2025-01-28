@@ -544,7 +544,7 @@ footer .form .sub-form .form-button .icon {
 /* MODAL */
 
 
-.modal-open .modal {
+.modal-open modal-window {
   position: fixed;
   top: 0;
   left: 0;
